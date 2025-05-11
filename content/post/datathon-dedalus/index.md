@@ -5,8 +5,8 @@ slug: datathon-en
 date: 2023-02-20 00:00:00+0000
 image: dedalus.png
 categories:
-    - Análisis De Datos
-    - Aprendizaje Automático
+    - Data Analysis
+    - Machine Learning
 tags:
     - Python
     - JupyterNotebook
