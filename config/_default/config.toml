@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://ibrepidev-portfolio.duckdns.org/"
+baseurl = "https://israel.breap-portfolio.pages.dev/"
 languageCode = "en-us"
 title = "Portfolio Israel Brea Piñero"
 
