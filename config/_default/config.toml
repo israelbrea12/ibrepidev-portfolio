@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://israelbreap-portfolio.pages.dev/"
+baseurl = "https://ibrepidev-portfolio.pages.dev/"
 languageCode = "en-us"
 title = "Portfolio Israel Brea Piñero"
 
